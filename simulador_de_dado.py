@@ -1,4 +1,4 @@
-# Simulador de Dado
+# SIMULADOR DE DADO
 # Simular o uso de um dado, gerando um valor de 1 até 6
 
 import random
@@ -9,12 +9,6 @@ class SimuladorDeDado:
         self.valor_minimo = 1
         self.valor_maximo = 6
         self.mensagem = 'Vc gostaria de gerar um novo valor para o dado? '
-
-# layout  [tempo do vídeo: 25:15]
-
-# criar uma janela
-# ler os valores da tela
-# fazer alguma coisa com esses valores
 
     def Iniciar(self):
         resposta = input(self.mensagem)
