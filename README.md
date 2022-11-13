@@ -1,6 +1,8 @@
 # PythonProjects
 Projetos em Python
 
+- Calculadora de Índice de Massa Corporal [IMC]: dados do Ministério da Saúde
+
 - Relatório de Falsificações de dinheiro no Brasil [entre os anos de 1995 e 2019];
 
 - Simulador de Dado: simula um dado sendo jogado pelo programa;
